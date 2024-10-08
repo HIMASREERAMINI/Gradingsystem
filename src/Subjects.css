@@ -1,0 +1,26 @@
+.subjects-section {
+    margin-top: 20px;
+  }
+  
+  .subjects-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  .subjects-table th,
+  .subjects-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .subjects-table th {
+    background-color: #009688;
+    color: white;
+  }
+  
+  .subjects-table tbody tr:nth-child(odd) {
+    background-color: #f2f2f2;
+  }
+  
